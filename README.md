@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bishopnho
+- 👋 Hi, I’m @LHSXCIX
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on softwares
